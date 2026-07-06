@@ -1,4 +1,4 @@
 # AlgoTechDemo
 This is my practice Git Repository.
 <br>
-Author - Sunil Jathar
+Author - Sunil Jathar(Algo Tech)
